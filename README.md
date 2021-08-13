@@ -1,4 +1,5 @@
-# <div align="center">Ultimate-Excuses ![logo](assets\favicons\favicon-32x32.png)</div>
+# <div align="center">Ultimate-Excuses ![logo](assets\favicons\favicon-32x32.png)
+</div>
 
 <div align="center">
 
@@ -7,7 +8,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/AyushShahh/Ultimate-Excuses?style=plastic)](https://github.com/AyushShahh/Ultimate-Excuses/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/AyushShahh/Ultimate-Excuses?style=plastic)](https://github.com/AyushShahh/Ultimate-Excuses/network)
 [![GitHub issues](https://img.shields.io/github/issues/AyushShahh/Ultimate-Excuses?style=plastic)](https://github.com/AyushShahh/Ultimate-Excuses/issues)
-[![Twitter](https://img.shields.io/twitter/url?color=grey&label=tweet%20this&logo=twitter&style=plastic&url=https%3A%2F%2Fgithub.com%2FAyushShahh%2FUltimate-Excuses)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FAyushShahh%2FUltimate-Excuses)
+[![Twitter](https://img.shields.io/twitter/url?color=grey&label=tweet%20this&logo=twitter&style=plastic&url=https%3A%2F%2Fgithub.com%2FAyushShahh%2FUltimate-Excuses)](https://twitter.com/intent/tweet?text=Woah!%20This%20is%20so%20cool.%20Check%20it%20out&url=https%3A%2F%2Fgithub.com%2FAyushShahh%2FUltimate-Excuses)
 </div>
 
 Presenting you the Ultimate Excuse generator that is loaded with lots of excuses for different occassions.
@@ -18,15 +19,15 @@ Presenting you the Ultimate Excuse generator that is loaded with lots of excuses
 Check the live site **[here](https://ultimatexcuses.netlify.app)**.
 
 ## Table of Contents
-- [Demonstration](#demonstration)
+- [Demonstration](#demonstration-)
 - [Contact](#contact)
 
-## Demonstration
-<div align="center"><img src="assets/demos/demonstration.gif"></div>
+## Demonstration ✨
+<div align="center"><img src="assets/demos/demonstration.gif" width="80%"></div>
 
 # <div align="center">Contact</div>
 
-<p align="center"><b>I don't like spams</b></p>
+<p align="center">I don't like spams</p>
 
 <div align="center">
 <a href="https://twitter.com/ayushshah__" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
