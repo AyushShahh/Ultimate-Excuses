@@ -1,4 +1,4 @@
-# <div align="center">Ultimate-Excuses ![logo](assets/favicons/favicon-32x32.png)</div>
+# Ultimate-Excuses ![logo](assets/favicons/favicon-32x32.png)
 
 <div align="center">
 
@@ -24,15 +24,14 @@ Check the live site **[here](https://ultimatexcuses.netlify.app)**.
 ## Demonstration ✨
 <div align="center"><img src="assets/demos/demonstration.gif" width="90%"></div>
 
-# <div align="center">Contact</div>
+# Contact
+I don't like spams
 
-<p align="center">I don't like spams</p>
-
-<div align="center">
+<p>
 <a href="https://twitter.com/ayushshah__" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/ayushshah__/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50"/></a>
 &nbsp; <a href="https://www.quora.com/profile/Ayush-Shah-133/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/50/000000/quora.png"/></a>
 &nbsp; <a href="https://www.clubhouse.com/@ayushshah_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/45/000000/so-so.png"/></a>
 &nbsp; <a href="https://www.discordapp.com/users/810944110046740491" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/46/000000/discord-new-logo.png"/></a><br><br>
 
-**[Back to top](#ultimate-excuses-)**</div>
+**[Back to top](#ultimate-excuses-)**
