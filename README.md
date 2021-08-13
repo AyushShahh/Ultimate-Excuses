@@ -1,5 +1,4 @@
-# <div align="center">Ultimate-Excuses ![logo](assets\favicons\favicon-32x32.png)
-</div>
+# <div align="center">Ultimate-Excuses ![logo](assets/favicons/favicon-32x32.png)</div>
 
 <div align="center">
 
@@ -23,7 +22,7 @@ Check the live site **[here](https://ultimatexcuses.netlify.app)**.
 - [Contact](#contact)
 
 ## Demonstration ✨
-<div align="center"><img src="assets/demos/demonstration.gif" width="80%"></div>
+<div align="center"><img src="assets/demos/demonstration.gif" width="90%"></div>
 
 # <div align="center">Contact</div>
 
