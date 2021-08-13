@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<head>
+    <title>Excuses</title>
+
+    <meta charset="UTF-8">
+    <meta name="theme-color" content="#000000">
+    <meta name="description" content="Confused about what to say? I got a lot of excuses for different occasions.">
+    <meta name="author" content="Ayush Shah">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Open graph tags-->
+    <meta property="og:title" content="Excuses">
+    <meta property="og:description" content="Confused about what to say? I got a lot of excuses for different occasions.">
+    <meta property="og:image" content="https://ultimatexcuses.netlify.app/assets/favicons/android-chrome-512x512.png">
+    <meta property="og:url" content="https://ultimatexcuses.netlify.app/">
+    <meta property="og:site_name" content="Excuses">
+    <meta property="og:type" content="website">
+
+    <!--Twitter-->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Excuses">
+    <meta name="twitter:url" content="https://ultimatexcuses.netlify.app/">
+    <meta name="twitter:description" content="Confused about what to say? I got a lot of excuses for different occasions.">
+    <meta name="twitter:image" content="https://ultimatexcuses.netlify.app/assets/favicons/android-chrome-512x512.png">
+    <meta name="twitter:creator" content="@ayushshah__">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png">
+    
+    <link rel="manifest" href="/site.webmanifest">
+    <script async src="https://cdn.jsdelivr.net/npm/pwacompat" crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="container">
+    <div id="main">
+        <h1>Some excuses for you</h1>
+
+        <p id="pExcuse">. . .</p>
+        <button data-toggle="popover" data-content="Copied to clipboard!" onclick="copyToClipboard('#pExcuse')" type="button" id="copy" class="btn btn-sm">Copy 📋</button>
+      
+        <div id="button">
+            <button class="button" onclick="newExcuse()">New one</button>
+        </div>
+        <div class="link">
+            <p>Want to add your own excuses? <a href="https://openinapp.co/instagram/15905" data-toggle="tooltip" data-placement="bottom" title="Click here" >Dm me</a></p>
+        </div>
+    </div>
+</div>
+<br><br><br>
+<p class="footer"><b>Made by Ayush Shah :)</b>
+
+<div class="modal fade" id="myModal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+
+        <div class="modal-header">
+          <h4 class="modal-title">The Ultimate Excuse Corner</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+  
+        <div class="modal-body">
+          Late to work? Crossed your deadline? Can't make it to the party? Need an excuse to escape from going to someone's boring party? Or you just want to say no to anything.<br><b>Don't worry, I got you covered.</b>
+        </div>
+  
+        <div class="modal-footer">
+          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+        </div>
+  
+      </div>
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script src="/scripts/excuses.js"></script>
+
+</body>
+</html>
