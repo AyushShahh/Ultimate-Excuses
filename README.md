@@ -5,7 +5,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/AyushShahh/Ultimate-Excuses?style=flat)](https://github.com/AyushShahh/Ultimate-Excuses/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/AyushShahh/Ultimate-Excuses?style=flat)](https://github.com/AyushShahh/Ultimate-Excuses/network)
 [![GitHub issues](https://img.shields.io/github/issues/AyushShahh/Ultimate-Excuses?style=flat)](https://github.com/AyushShahh/Ultimate-Excuses/issues)
-[![Twitter](https://img.shields.io/twitter/url?color=grey&label=tweet%20this&logo=twitter&style=flat&url=https%3A%2F%2Fgithub.com%2FAyushShahh%2FUltimate-Excuses)](https://twitter.com/intent/tweet?text=Woah!%20This%20is%20so%20cool.%20Check%20it%20out&url=https%3A%2F%2Fgithub.com%2FAyushShahh%2FUltimate-Excuses)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AyushShahh/Ultimate-Excuses?color=yellow&style=plastic)
+![Lines of code](https://img.shields.io/tokei/lines/github/AyushShahh/Ultimate-Excuses?label=total%20lines%20of%20code&style=plastic)
+[![Twitter](https://img.shields.io/twitter/url?color=grey&label=Tweet%20this&logo=twitter&style=flat&url=https%3A%2F%2Fgithub.com%2FAyushShahh%2FUltimate-Excuses)](https://twitter.com/intent/tweet?text=Woah!%20This%20is%20so%20cool.%20Check%20it%20out&url=https%3A%2F%2Fgithub.com%2FAyushShahh%2FUltimate-Excuses)
 
 Presenting you the Ultimate Excuse generator that is loaded with lots of excuses for different occassions.
 
