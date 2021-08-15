@@ -104,7 +104,6 @@ You can go to [this](https://github.com/AyushShahh/Ultimate-Excuses/blob/main/sc
 excuse['number after the previous excuse'] = "Your excuse goes here inside quotes";
 ```
 
-
 **Thanks for contributing.**
  
 ## LICENSE 🛡️
