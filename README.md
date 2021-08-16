@@ -88,7 +88,7 @@ Read more on their [blog](https://developers.google.com/web/updates/2018/07/pwac
 If you got some questions or you want to tell something, you can discuss them in the [discussions](https://github.com/AyushShahh/Ultimate-Excuses/discussions) tab.
 
 ## Found a bug?
-If you find a bug, you can always **open an issue** in the [issues tab](https://github.com/AyushShahh/Ultimate-Excuses/issues) to talk about it. Still, if you want to **contact me**, check [here](#contact).
+If you find a bug, you can always **open an issue** in the [issues tab](https://github.com/AyushShahh/Ultimate-Excuses/issues) to talk about it. Still, if you want to **contact me**, click [here](#contact).
 
 ---
 **Note:** Make sure you browse through the existing issues to check if the issue already exists.<br>
