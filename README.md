@@ -5,8 +5,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/AyushShahh/Ultimate-Excuses?style=flat)](https://github.com/AyushShahh/Ultimate-Excuses/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/AyushShahh/Ultimate-Excuses?style=flat)](https://github.com/AyushShahh/Ultimate-Excuses/network)
 [![GitHub issues](https://img.shields.io/github/issues/AyushShahh/Ultimate-Excuses?style=flat)](https://github.com/AyushShahh/Ultimate-Excuses/issues)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AyushShahh/Ultimate-Excuses?color=yellow&style=plastic)
-![Lines of code](https://img.shields.io/tokei/lines/github/AyushShahh/Ultimate-Excuses?label=total%20lines%20of%20code&style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AyushShahh/Ultimate-Excuses?color=yellow&style=flat)
+![Lines of code](https://img.shields.io/tokei/lines/github/AyushShahh/Ultimate-Excuses?label=total%20lines%20of%20code&style=flat)
 [![Twitter](https://img.shields.io/twitter/url?color=grey&label=Tweet%20this&logo=twitter&style=flat&url=https%3A%2F%2Fgithub.com%2FAyushShahh%2FUltimate-Excuses)](https://twitter.com/intent/tweet?text=Woah!%20This%20is%20so%20cool.%20Check%20it%20out&url=https%3A%2F%2Fgithub.com%2FAyushShahh%2FUltimate-Excuses)
 
 Presenting you the Ultimate Excuse generator that is loaded with lots of excuses for different occassions.
@@ -33,7 +33,7 @@ Check the live site **[here](https://ultimatexcuses.netlify.app)**.
 
 ## Brief
 With a lot of excuses, this site can help you if you get stuck in some situations. Keep pressing the button until you get the excuse you want.<br>
-After that, copy the excuse by pressing the button.<br>
+After that, copy the excuse by pressing the copy button.<br>
 It is as simple as that.
 
 ## Web App
