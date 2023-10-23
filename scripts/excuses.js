@@ -64,7 +64,7 @@ excuse[60] = "I worked a lot so I took a nap.";
 excuse[61] = "I can't come because weather is bad in my area";
 excuse[62] = "I feel sick.";
 excuse[63] = "My grandmother died.";
-excuse[64] = "I just had a call from my neighbour that one of the water tap is open, and no one is at home so the house flooded"
+excuse[64] = "I just had a call from my neighbour that one of the water tap is open, and no one is at home so the house is flooded";
 
 function newExcuse() {
     var randomExcuse = Math.floor(Math.random()*(excuse.length));
