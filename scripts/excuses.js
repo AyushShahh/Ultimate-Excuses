@@ -67,6 +67,7 @@ excuse[63] = "My grandmother died.";
 excuse[64] = "I just had a call from my neighbour that one of the water tap is open, and no one is at home so the house is flooded";
 excuse[65] =  "I apologize for not completing the task on time. I underestimated the complexity and it took longer than expected.";
 excuse[66] = "My parents won't allow me to come";
+excuse[67] = "I'm volunteering for a wildlife observation project and need to log some data. So I won't be able to make it.";
 
 function newExcuse() {
     var randomExcuse = Math.floor(Math.random()*(excuse.length));
