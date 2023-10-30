@@ -41,9 +41,9 @@ It is as simple as that.
 1. For desktop users
 - Chrome
     - Open the [website](https://ultimatexcuses.netlify.app)
-    - Click on the **install button** which is on the right side of the address bar
-    - There will be a pop-up asking you to install web app. Click on **install**
-    - Desktop shortcut will be created
+    - Click on the **Install button** on the right side of the address bar
+    - There will be a pop-up asking you to install the web app. Click on **Install**
+    - A desktop shortcut will be created
 2. For mobile users
 - Chrome
     - Navigate to the [website](https://ultimatexcuses.netlify.app)
