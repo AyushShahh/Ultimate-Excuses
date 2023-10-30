@@ -6,7 +6,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/AyushShahh/Ultimate-Excuses?style=flat)](https://github.com/AyushShahh/Ultimate-Excuses/network)
 [![GitHub issues](https://img.shields.io/github/issues/AyushShahh/Ultimate-Excuses?style=flat)](https://github.com/AyushShahh/Ultimate-Excuses/issues)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/AyushShahh/Ultimate-Excuses?color=yellow&style=flat)
-![Lines of code](https://img.shields.io/tokei/lines/github/AyushShahh/Ultimate-Excuses?label=total%20lines%20of%20code&style=flat)
 [![Twitter](https://img.shields.io/twitter/url?color=grey&label=Tweet%20this&logo=twitter&style=flat&url=https%3A%2F%2Fgithub.com%2FAyushShahh%2FUltimate-Excuses)](https://twitter.com/intent/tweet?text=Woah!%20This%20is%20so%20cool.%20Check%20it%20out&url=https%3A%2F%2Fgithub.com%2FAyushShahh%2FUltimate-Excuses)
 
 Presenting you the Ultimate Excuse generator that is loaded with lots of excuses for different occassions.
@@ -26,7 +25,6 @@ Check the live site **[here](https://ultimatexcuses.netlify.app)**.
 - [Contributing](#contributing)
 - [Submitting an Excuse](#submitting-an-excuse)
 - [LICENSE](#license-%EF%B8%8F)
-- [Contact](#contact)
 
 ## Demonstration ✨
 <img src="assets/demos/demonstration.gif">
@@ -43,10 +41,9 @@ It is as simple as that.
 1. For desktop users
 - Chrome
     - Open the [website](https://ultimatexcuses.netlify.app)
-    - Tap the **three dots &#8942;** on the top right corner
-    - Click on **More tools**
-    - Click on **Create shortcut**
-    - Check **Open as window** option and click create
+    - Click on the **install button** which is on the right side of the address bar
+    - There will be a pop-up asking you to install web app. Click on **install**
+    - Desktop shortcut will be created
 2. For mobile users
 - Chrome
     - Navigate to the [website](https://ultimatexcuses.netlify.app)
@@ -88,7 +85,7 @@ Read more on their [blog](https://developers.google.com/web/updates/2018/07/pwac
 If you got some questions or you want to tell something, you can discuss them in the [discussions](https://github.com/AyushShahh/Ultimate-Excuses/discussions) tab.
 
 ## Found a bug?
-If you find a bug, you can always **open an issue** in the [issues tab](https://github.com/AyushShahh/Ultimate-Excuses/issues) to talk about it. Still, if you want to **contact me**, click [here](#contact).
+If you find a bug, you can always **open an issue** in the [issues tab](https://github.com/AyushShahh/Ultimate-Excuses/issues) to talk about it.
 
 ---
 **Note:** Make sure you browse through the existing issues to check if the issue already exists.<br>
@@ -101,7 +98,7 @@ For less major or minor changes, you can open a [pull request](https://github.co
 ### Submitting an Excuse
 You can go to [this](https://github.com/AyushShahh/Ultimate-Excuses/blob/main/scripts/excuses.js) file and add your own excuse like this:
 ```javascript
-excuse['number after the previous excuse'] = "Your excuse goes here inside quotes";
+excuse[number after the previous excuse] = "Your excuse goes here inside quotes";
 ```
 
 **Thanks for contributing.**
@@ -109,8 +106,6 @@ excuse['number after the previous excuse'] = "Your excuse goes here inside quote
 ## LICENSE 🛡️
 This project is licensed under the MIT License - see the **[`LICENSE`](https://github.com/AyushShahh/Ultimate-Excuses/blob/main/LICENSE)** file for details.
 
-# Contact
-I don't like spams
 
 <p>
 <a href="https://twitter.com/ayushshah__" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
