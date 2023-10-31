@@ -71,6 +71,7 @@ excuse[67] = "I'm participating in a competition so I need to practice";
 excuse[68] = "I found an old bookstore and lost track of time";
 excuse[69] = "I apologize for the incomplete work. I faced some unanticipated technical issues.";
 excuse[70] = "My pet had an unexpected health issue that required immediate medication.";
+excuse[71] = "I have a date today with my soulmate";
 
 function newExcuse() {
     var randomExcuse = Math.floor(Math.random()*(excuse.length));
