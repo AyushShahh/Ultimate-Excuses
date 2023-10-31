@@ -69,6 +69,7 @@ excuse[65] =  "I apologize for not completing the task on time. I underestimated
 excuse[66] = "My parents won't allow me to come";
 excuse[67] = "I'm participating in a competition so I need to practice";
 excuse[68] = "I found an old bookstore and lost track of time";
+excuse[69] = "I apologize for the incomplete work. I faced some unanticipated technical issues.";
 
 
 function newExcuse() {
